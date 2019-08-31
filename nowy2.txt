@@ -1,4 +1,8 @@
 dadfasfad
 dfadfa
 dsfadfa
+<<<<<<< HEAD
 zmiany w kompie
+=======
+zmiany w pliku nowy2.txt
+>>>>>>> 99f2c0e23c9a37529386fccbcbb17362bc23b671
